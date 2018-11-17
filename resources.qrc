@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="terrain.png">res/terrain.png</file>
+        <file alias="fog.frag">res/fog.frag</file>
+        <file alias="fog.vert">res/fog.vert</file>
+        <file alias="negx.png">res/negx.png</file>
+        <file alias="negy.png">res/negy.png</file>
+        <file alias="negz.png">res/negz.png</file>
+        <file alias="posx.png">res/posx.png</file>
+        <file alias="posy.png">res/posy.png</file>
+        <file alias="posz.png">res/posz.png</file>
+        <file alias="negxSunset.png">res/negxSunset.png</file>
+        <file alias="negySunset.png">res/negySunset.png</file>
+        <file alias="negzSunset.png">res/negzSunset.png</file>
+        <file alias="posxSunset.png">res/posxSunset.png</file>
+        <file alias="posySunset.png">res/posySunset.png</file>
+        <file alias="poszSunset.png">res/poszSunset.png</file>
+    </qresource>
+</RCC>
